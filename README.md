@@ -1,7 +1,7 @@
 # TusPelis
-# 🎬 Movie Manager - Prototipo de Gestor de Películas, Series y Más
+# 🎬 TusPelis - Prototipo de Gestor de Películas, Series y Más
 
-¡Bienvenido a **Movie Manager**! 🚀 Este es un prototipo que permite gestionar **películas**, **series**, **miniseries** y **novelas**. Diseñado para ofrecer una experiencia sencilla y funcional para los amantes del entretenimiento.  
+¡Bienvenido a **TusPelis**! 🚀 Este es un prototipo que permite gestionar **películas**, **series**, **miniseries** y **novelas**. Diseñado para ofrecer una experiencia sencilla y funcional para los amantes del entretenimiento.  
 
 ---
 
