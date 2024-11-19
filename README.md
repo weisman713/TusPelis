@@ -1,7 +1,9 @@
 # TusPelis
 # 🎬 TusPelis - Prototipo de Gestor de Películas, Series y Más
 
-¡Bienvenido a **TusPelis**! 🚀 Este es un prototipo que permite gestionar **películas**, **series**, **miniseries** y **novelas**. Diseñado para ofrecer una experiencia sencilla y funcional para los amantes del entretenimiento.  
+¡Bienvenido a **TusPelis**! 🚀 Este es un prototipo que permite gestionar **películas**, **series**, **miniseries** y **novelas**. Diseñado para ofrecer una experiencia sencilla y funcional para los amantes del entretenimiento. 
+Video ilustrativo de la primera version es un proyecto que avanzara ya con objetivos personal
+https://drive.google.com/file/d/12lU25y0eBXEY4cyGKwBc5NqXCkes6Pr0/view?usp=drive_link
 
 ---
 
