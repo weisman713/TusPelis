@@ -26,3 +26,30 @@ https://drive.google.com/file/d/12lU25y0eBXEY4cyGKwBc5NqXCkes6Pr0/view?usp=drive
 - 🖥️ Interfaz amigable: diseño limpio y responsivo.
 
 ---
+## 📋 Cómo ejecutar este proyecto
+1. Clona este repositorio
+2. Instala las dependencias del frontend
+   cd frontend
+   npm install
+3. Instala las dependencias del backend
+   cd backend
+   pip install -r requirements.txt
+4. Ejecuta el backend
+   python manage.py runserver
+5. Ejecuta el frontend
+   npm run dev
+6. Abre la aplicación en tu navegador
+
+## 👥 Equipo de desarrollo
+Este proyecto fue desarrollado por:
+- Dylan Restrepo
+- William Ballesteros
+- Nicolas Delgado
+- Wueisman Muñoz
+
+Con mentoría de **Leidy Jaramillo**.
+
+https://drive.google.com/file/d/12lU25y0eBXEY4cyGKwBc5NqXCkes6Pr0/view?usp=drive_link
+
+
+
